@@ -1,0 +1,51 @@
+
+.botao-de-inscreva-se{
+
+  background-color: rgb(200, 0, 0);
+
+  color: white;
+
+  border-radius: 3px;
+  border: none;
+
+  height: 36px;
+  width: 105px;
+  
+  cursor: pointer;
+}
+
+
+.botao-de-juntar-se{
+  background-color: white;
+
+  border-color: rgba(3, 129, 247, 0.822);
+  color: rgb(17, 72, 175);
+  border-radius: 3px;
+  border-style: solid;
+  border-width: 1px;
+
+  margin-left: 8px;
+
+  height: 36px;
+  width: 78px;
+
+  cursor: pointer;
+}
+
+.botao-de-tweet{
+  background-color: rgb(30, 154, 255);
+
+  color: white;
+  font-weight: bold;
+  font-size: 16px;
+  
+  border: none;
+  border-radius: 20px;
+
+  margin-left: 8px;
+
+  height: 36px;
+  width: 82px;
+
+  cursor: pointer;
+}
