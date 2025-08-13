@@ -1,0 +1,88 @@
+.botao-de-inscreva-se{
+
+  background-color: rgb(200, 0, 0);
+
+  color: white;
+
+  border-radius: 3px;
+  border: none;
+
+  height: 36px;
+  width: 105px;
+  
+  cursor: pointer;
+
+  transition: opacity 0.15s;
+}
+
+.botao-de-inscreva-se:hover{
+  opacity: 0.7;
+}
+
+.botao-de-inscreva-se:active{
+  opacity: 0.4;
+}
+
+
+
+
+
+.botao-de-juntar-se{
+  background-color: white;
+
+  border-color: rgba(3, 129, 247, 0.822);
+  color: rgb(17, 72, 175);
+  border-radius: 3px;
+  border-style: solid;
+  border-width: 1px;
+
+  margin-left: 8px;
+
+  height: 36px;
+  width: 78px;
+
+  cursor: pointer;
+
+  transition: background-color 0.15s, color 0.15s;
+}
+
+.botao-de-juntar-se:hover{
+  background-color: rgb(17, 72, 175);
+  color:  white;
+}
+
+.botao-de-juntar-se:active{
+    background-color: rgb(11, 49, 119);
+
+}
+
+
+
+
+
+.botao-de-tweet{
+  background-color: rgb(30, 154, 255);
+
+  color: white;
+  font-weight: bold;
+  font-size: 16px;
+  
+  border: none;
+  border-radius: 20px;
+
+  margin-left: 8px;
+
+  height: 36px;
+  width: 82px;
+
+  cursor: pointer;
+
+  transition: 0.10s;
+}
+
+.botao-de-tweet:hover{
+    box-shadow: 8px 6px 10px rgba(102, 166, 218, 0.589);
+
+}
+
+
