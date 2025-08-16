@@ -1,0 +1,181 @@
+.Requira-agora{
+  background-color: black;
+
+  color: white;
+
+  height: 40px;
+  width: 125px;
+
+  border: none;
+
+  cursor: pointer;
+
+  transition: opacity 0.15s;
+
+}
+
+.Requira-agora:hover{
+  opacity: 0.7;
+}
+
+.Requira-agora:active{
+  opacity: 0.5;
+}
+
+
+/*----------------------------------------------------------------------------------------------*/
+
+
+.Adicionar-ao-carrinho{
+  background-color: rgb(255, 216, 20);
+
+  border: none;
+  border-radius: 100px;
+
+  height: 40px;
+  width: 180px;
+
+  margin-left: 30px;
+
+  cursor: pointer;
+
+  transition: background-color 0.15s;
+}
+
+.Adicionar-ao-carrinho:hover{
+  background-color: rgb(196, 166, 16);
+}
+
+/*----------------------------------------------------------------------------------------------*/
+
+.Entrar{
+  height: 40px;
+  width: 110px;
+
+  background-color: rgb(46, 164, 79);
+
+  border: none;
+  border-radius: 7px;
+
+  color: white;
+  font-weight: bold;
+  font-size: 15px;
+
+  margin-left: 30px;
+
+  cursor: pointer;
+
+  transition: box-shadow 0.13s;
+}
+
+.Entrar:hover{
+  box-shadow: 0px 5px 12px rgba(54, 104, 68, 0.377);
+}
+
+/*----------------------------------------------------------------------------------------------*/
+
+.iniciar-agora{
+  height: 40px;
+  width: 118px;
+
+  background-color: rgb(121, 82, 179);
+
+  color: white;
+  font-weight: bold;
+
+  border: none;
+  border-radius: 4px;
+
+  cursor: pointer;
+
+  transition: background-color 0.15s;
+}
+
+.iniciar-agora:hover{
+  background-color: rgb(97, 64, 146);
+
+}
+
+/*----------------------------------------------------------------------------------------------*/
+
+.Dowload{
+  height: 40px;
+  width: 116px;
+
+  background-color: white;
+
+  border-color: rgba(102, 109, 124, 0.377);
+  border-radius: 4px;
+  
+  color: rgb(108, 117, 125);
+  font-weight: bold;
+
+  margin-left: 6px;
+
+  cursor: pointer;
+
+  transition: background-color 0.13s ,color 0.15s;
+}
+
+.Dowload:hover{
+  background-color: rgb(108, 117, 125);
+  color: white;
+}
+
+
+
+/*----------------------------------------------------------------------------------------------*/
+.Aplicar-no-site-da-compania{
+  height: 40px;
+  width: 278px;
+
+  background-color: rgb(10, 102, 194);
+
+  border: none;
+  border-radius: 50px;
+
+  color: white;
+  font-weight: bold;
+  font-size: 14px;
+
+  margin-left: 30px;
+  margin-top: 20px;
+
+  cursor: pointer;
+
+  transition: background-color 0.12s;
+
+}
+
+.Aplicar-no-site-da-compania:hover{
+  background-color: rgb(11, 78, 146);
+}
+
+/*----------------------------------------------------------------------------------------------*/
+.Salvar{
+  height: 40px;
+  width: 85px;
+
+  background-color: white;
+
+  border-color: rgb(10, 102, 194);
+  border-radius: 50px;
+  border-width: 1px;
+
+  color: rgb(10, 102, 194);
+  font-weight: bold;
+  font-size: 14px;
+
+  margin-left: 8px;
+  margin-top: 20px;
+
+  cursor: pointer;
+
+  transition: background-color 0.2s;
+}
+
+.Salvar:hover{
+  background-color:rgba(113, 175, 238, 0.137) ;
+  border-width: 2px;
+}
+/*----------------------------------------------------------------------------------------------*/
