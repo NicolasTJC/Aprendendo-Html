@@ -43,7 +43,7 @@
 }
 
 .Adicionar-ao-carrinho:hover{
-  background-color: rgb(196, 166, 16);
+  background-color: rgb(122, 110, 47);
 }
 
 /*----------------------------------------------------------------------------------------------*/
@@ -179,3 +179,71 @@
   border-width: 2px;
 }
 /*----------------------------------------------------------------------------------------------*/
+
+a{
+  font-size: 20px;
+
+}
+
+a:hover{
+  color: orangered;
+}
+/*----------------------------------------------------------------------------------------------*/
+
+.Preço-do-produto{
+  font-size: 20px;
+  color: green;
+  font-weight: bold;
+}
+/*----------------------------------------------------------------------------------------------*/
+
+p{
+ font-size: 21px;
+}
+
+/*----------------------------------------------------------------------------------------------*/
+
+.Adicionar-ao-carrinho-Amazon{
+   background-color: rgb(255, 216, 20);
+
+   height: 40px;
+   width: 180px;
+
+   border: none;
+   border-radius: 25px;
+
+   transition: background-color 0.12s, opacity 0.12s;
+
+   font-size: 14px;
+}
+
+.Adicionar-ao-carrinho-Amazon:hover{
+  background-color: rgb(240, 202, 12);
+}
+
+.Adicionar-ao-carrinho-Amazon:active{
+  opacity: 0.7;
+}
+/* -------------------------------------------------------------------------------------------- */
+
+.Comprar-agora-Amazon{
+background-color: rgb(238, 150, 68);
+
+  height: 40px;
+  width: 180px;
+
+  border: none;
+  border-radius: 25px;
+
+  font-size: 14px;
+
+  transition: opacity 0.12s;
+}
+
+.Comprar-agora-Amazon:hover{
+  background-color: rgb(235, 134, 39);
+}
+
+.Comprar-agora-Amazon:active{
+  opacity: 0.7;
+}
